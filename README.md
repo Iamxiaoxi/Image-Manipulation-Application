@@ -29,7 +29,7 @@ Each command does one thing required by the assignment.
 Last but not least, we have a Main class for testing the program.
 
 
-part 2: available commands for the program.
+part 2: Available Commands
 
 load res/red.ppm red
 save res/red-brighter.ppm red-brighter
@@ -42,13 +42,13 @@ blue-component red red-blue
 green-component red red-green
 
 
-part 3: source of the image
+part 3: Image Source
 I used the paint.s on mac to draw a 3*4 image, saved it as png,
 then I converted it from png to ppm, using https://convertio.co/download/c37c660bc4c2272946b3845836771fb47c703e/
 The converter converts it to the p6 PPM, so I used another converter to 
 convert the image from p6 to p3, using https://thomasebsmith.github.io/ppm-converter/
 
 
-part 4: class diagram
+part 4: Class Diagram
 ![IME class diagram](https://github.com/Iamxiaoxi/Image-Manipulation-Application/assets/105288444/d2828ce9-a341-46d0-a311-53ba40409892)
 
