@@ -28,6 +28,7 @@ different commands. We used the strategy pattern for the operations in this assi
 Each command does one thing required by the assignment.
 Last but not least, we have a Main class for testing the program.
 
+
 part 2: available commands for the program.
 
 load res/red.ppm red
@@ -40,11 +41,13 @@ red-component red red-red
 blue-component red red-blue
 green-component red red-green
 
+
 part 3: source of the image
 I used the paint.s on mac to draw a 3*4 image, saved it as png,
 then I converted it from png to ppm, using https://convertio.co/download/c37c660bc4c2272946b3845836771fb47c703e/
 The converter converts it to the p6 PPM, so I used another converter to 
 convert the image from p6 to p3, using https://thomasebsmith.github.io/ppm-converter/
+
 
 part 4: class diagram
 ![](IME class diagram.png)
