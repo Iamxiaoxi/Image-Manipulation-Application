@@ -1,4 +1,5 @@
 part 1: Design
+
 we are dividing the program into three parts: model,view and controller.
 For this assignment, we focus on the model and controller part. Here is 
 a breakdown of the class design:
