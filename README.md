@@ -50,4 +50,5 @@ convert the image from p6 to p3, using https://thomasebsmith.github.io/ppm-conve
 
 
 part 4: class diagram
-![](IME class diagram.png)
+![IME class diagram](https://github.com/Iamxiaoxi/Image-Manipulation-Application/assets/105288444/d2828ce9-a341-46d0-a311-53ba40409892)
+
